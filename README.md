@@ -1,10 +1,17 @@
-- 👋 Hi, I’m @CraZyy-2
-- 👀 I am a tech enthusiast
-- 🌱 I’m currently learning all i can about programming
-- 💞️ I’m looking to collaborate on science related innovations
-- 😄 Pronouns: he/him
+# About me 
+## 🌟 Welcome 
+I have a strong passion for mathematics, computer science, as well as biology, and how those fields can explain and alter the world we live in. What I am doing here is always trying to learn things, to understand things, and to create things by coding, reasoning and experimenting. What energizes me most are curiosity and reasoning. I have a strong interest in the relationship between abstract mathematical concepts and their realization in computing. Programming is a precise language for me as well as a process of discovery. I enjoy an analytical approach to problems in consideration of other avenues until I find one that is a reasonable and efficient solution.
+## 🧠 Academic and Technical Interests
+Math: logic, analysis, probability, and modeling
 
-<!---
-CraZyy-2/CraZyy-2 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+Computer Science: algorithms, data structures, and system design
+
+
+Artificial Intelligence: pattern recognition and learning machines
+
+
+Data Analysis: extracting a structure and meaning from raw data
+
+
+Biology: molecular mechanisms, bioinformatics, and data-driven approaches to life sciences
